@@ -1,7 +1,7 @@
 CODED FOR WINDOWS. UNSTABLE, UNTESTED!
 
 ### quick_trade.py
-python >= 3, pyqt6, ib_async...<br/>
+python 3, pyqt6, ib_async...<br/>
 left click on bid side:       LMT BUY<br/>
 right click on ask side:      LMT SELL<br/>
 shift+left click on bid side: MKT BUY STP<br/>
