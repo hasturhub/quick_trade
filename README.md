@@ -16,6 +16,7 @@ mouse scroll on bid or ask cols: scroll up/down<br/>
 left click on boxes on far right to show fill stats for order<br/>
 left click on orders to cancel<br/>
 o: (o)ption switcher menu<br/>
+right click on option to save it between sessions (a * will appear)<br/>
 1-4: when in option switcher menu and not scrolled, select option #<br/>
 p: list (p)ositions<br/>
 ESC: close menu<br/>
