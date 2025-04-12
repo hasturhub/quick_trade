@@ -1,6 +1,6 @@
 WINDOWS. UNSTABLE, UNTESTED!
 
-### quick_trade.py
+### quick_change.py
 python 3, pyqt6, ib_async...<br/>
 left click on bid side:       LMT BUY<br/>
 right click on ask side:      LMT SELL<br/>
@@ -23,7 +23,7 @@ right click on option to save it between sessions (a * will appear)<br/>
 p: list (p)ositions<br/>
 ESC: close menu<br/>
 ...
-### quick_trade.ahk
+### quick_change.ahk
 AutoHotkey v2<br/>
 hotkeys for tws classic, will require tuning of constants for your tws display settings<br/>
 ctrl+s: make a chart group zoomable<br/>
