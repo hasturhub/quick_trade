@@ -1,5 +1,9 @@
 WINDOWS. UNSTABLE, UNTESTED! US STOCKS/OPTIONS
 
+
+https://github.com/user-attachments/assets/6128df35-f087-4399-917a-620c687cc8bc
+
+
 ### quick_change.py
 python 3, pyqt6, ib_async...<br/>
 left click on bid side:       LMT BUY<br/>
