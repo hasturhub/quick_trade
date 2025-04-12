@@ -1,30 +1,29 @@
-### quick_trade.py ###
-python >= 3, pyqt6, ib_async...
-left click on bid side:       LMT BUY
-right click on ask side:      LMT SELL
-shift+left click on bid side: MKT BUY STP
-shift+left click on ask side: MKT SELL STP
-b: go (b)ack to underlying
-j: scroll ladder down
-k: scroll ladder up
-m: snap mid
-f: snap mid at zoom level 1
-mouse scroll on prices in ladder: zoom in/out
-mouse scroll on bid or ask cols: scroll up/down
-left click on boxes on far right to show fill stats for order
-left click on orders to cancel
+### quick_trade.py
+python >= 3, pyqt6, ib_async...<br/>
+left click on bid side:       LMT BUY<br/>
+right click on ask side:      LMT SELL<br/>
+shift+left click on bid side: MKT BUY STP<br/>
+shift+left click on ask side: MKT SELL STP<br/>
+b: go (b)ack to underlying<br/>
+j: scroll ladder down<br/>
+k: scroll ladder up<br/>
+m: snap mid<br/>
+f: snap mid at zoom level 1<br/>
+mouse scroll on prices in ladder: zoom in/out<br/>
+mouse scroll on bid or ask cols: scroll up/down<br/>
+left click on boxes on far right to show fill stats for order<br/>
+left click on orders to cancel<br/>
+o: (o)ption switcher menu<br/>
+1-4: when in option switcher menu and not scolled, select option #<br/>
+p: list (p)ositions<br/>
+ESC: close menu<br/>
 ...
-
-o: (o)ption switcher menu
-1-4: when in option switcher menu and not scolled, select option #
-p: list (p)ositions
-ESC: close menu
-
-### quick_trade.ahk ###
-AutoHotkey v2
-hotkeys for tws classic, will require tuning of constants for your tws display settings
-ctrl+s: make a chart group zoomable
-z: zoom in on chart in group
-` key + 1-4: set an order size in quick_trade
-ctrl+t: send us stock/option to quick_trade
-... 
+### quick_trade.ahk
+AutoHotkey v2<br/>
+hotkeys for tws classic, will require tuning of constants for your tws display settings<br/>
+ctrl+s: make a chart group zoomable<br/>
+F1-F6: change bar size
+z: zoom in on chart in group<br/>
+` key + 1-4: set an order size in quick_trade<br/>
+ctrl+t: send us stock/option to quick_trade<br/>
+...
