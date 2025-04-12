@@ -11,7 +11,7 @@ j: scroll ladder down<br/>
 k: scroll ladder up<br/>
 m: snap mid<br/>
 f: snap mid at zoom level 1<br/>
-l: show/hide (l)ast price
+l: show/hide (l)ast price<br/>
 mouse scroll on prices in ladder: zoom in/out<br/>
 mouse scroll on bid or ask cols: scroll up/down<br/>
 left click on boxes on far right to show fill stats for order<br/>
