@@ -1,3 +1,5 @@
+UNSTABLE, UNTESTED!
+
 ### quick_trade.py
 python >= 3, pyqt6, ib_async...<br/>
 left click on bid side:       LMT BUY<br/>
