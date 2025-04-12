@@ -1,4 +1,4 @@
-WINDOWS. UNSTABLE, UNTESTED!
+WINDOWS. UNSTABLE, UNTESTED! US STOCKS/OPTIONS
 
 ### quick_change.py
 python 3, pyqt6, ib_async...<br/>
@@ -29,6 +29,6 @@ hotkeys for tws classic, will require tuning of constants for your tws display s
 ctrl+s: make a chart group zoomable<br/>
 F1-F6: change bar size<br/>
 z: zoom in on chart in group<br/>
-` key + 1-4: set an order size in quick_trade<br/>
-ctrl+t: send us stock/option to quick_trade<br/>
+` key + 1-4: set an order size in quick_change.py<br/>
+ctrl+t: send chart contract to quick_change.py<br/>
 ...
